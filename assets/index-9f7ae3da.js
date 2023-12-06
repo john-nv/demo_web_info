@@ -29041,13 +29041,13 @@ Nl.Link = S4;
 Nl.Title = T4;
 Nl.Paragraph = x4;
 const I4 = Nl;
-const N4 = "/assets/fb.jpg",
-  M4 = "/assets/logo-93385932.jpg",
-  _4 = "/assets/vcbqr-ab1a1c01.jpeg",
-  k4 = "/assets/inss.jpg",
-  z4 = "/assets/waallpaper-f8c89fb8.webp",
-  L4 = "/assets/cake.jpg",
-  A4 = "/assets/vcb-08137d70.png",
+const N4 = "./assets/fb.jpg",
+  M4 = "./assets/logo-93385932.jpg",
+  _4 = "./assets/vcbqr-ab1a1c01.jpeg",
+  k4 = "./assets/inss.jpg",
+  z4 = "./assets/waallpaper-f8c89fb8.webp",
+  L4 = "./assets/cake.jpg",
+  A4 = "./assets/vcb-08137d70.png",
   j4 = e => {
     const {
       open: t,
